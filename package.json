@@ -1,5 +1,5 @@
 {
-    "name": "GitHub-Actions",
+    "name": "github-actions",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -17,9 +17,7 @@
     "author": "Artur Amorim",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/arturnneto/actionscicd/issues",
-        
+        "url": "https://github.com/arturnneto/actionscicd/issues"
     }
-
 }
 
