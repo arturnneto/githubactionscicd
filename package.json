@@ -1,0 +1,25 @@
+{
+    "name": "GitHub-Actions",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+
+    "scripts": {
+        "test": "echo \"Testing dependencies...\"",
+        "build": "echo \"Building dependencies...\"",
+        "deploy": "echo \"Deploying dependencies...\""
+    },
+    "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/arturnneto/actionscicd.git"
+    },
+    "keywords": ["GitHub, CI, CD, CI CD, Actions"],
+    "author": "Artur Amorim",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/arturnneto/actionscicd/issues",
+        
+    }
+
+}
+
